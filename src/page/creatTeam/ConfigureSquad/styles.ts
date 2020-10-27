@@ -123,7 +123,6 @@ export const Name = styled.div`
   justify-content: space-between;
 `;
 
-
 export const Age = styled.div`
   position: relative;
   left: 145px;
